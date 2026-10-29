@@ -1,3 +1,3 @@
-# strike-rivals redirect
+# strikerivals redirect
 
-Redirects strike-rivals.scorebox.games to https://www.scorebox.games/strike-rivals (GitHub Pages, custom-domain HTTPS).
+Redirects strikerivals.scorebox.games to https://www.scorebox.games/strike-rivals (GitHub Pages, custom-domain HTTPS).
